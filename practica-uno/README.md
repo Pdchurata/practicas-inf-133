@@ -4,7 +4,7 @@ Completa tus datos personales en la siguiente tabla:
 -------------------------
 | Nombres  | Apellidos  | CI   |
 | -------- | ---------- | ---- |
-| `nombre` | `apellido` | `ci` |
+| `PABEL DANTE` | `CHURATA APAZA` | `9230639` |
 
 ## Ejercicio 1
 Construye un servidor con el protocolo SOAP que permita a un cliente realizar las operaciones de suma, resta, multiplicación y división de dos números enteros.
